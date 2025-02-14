@@ -1,60 +1,43 @@
 {
-    "team":
-    [
-        {
-            "title": "CEO and Founder",
-            "name": "John Smith",
-            "description": "10+ years of experience in digital marketing. Expertise in SEO, PPC, and content strategy",
-            "profile": "/team/c1.png",
-            "link": "/"
-        },
-        {
-            "title": "Director of Operations",
-            "name": "Jane Doe",
-            "description": "7+ years of experience in project management and team leadership. Strong organizational and communication skills",
-            "profile": "/team/c2.png",
-            "link": "/"
-        },
-        {
-            "title": "Senior SEO Specialist",
-            "name": "Michael Brown",
-            "description": "5+ years of experience in SEO and content creation. Proficient in keyword research and on-page optimization",
-            "profile": "/team/c3.png",
-            "link": "/"
-        }
-
-    ],
-    "process":
-    [
-        {
-            "index": 1,
-            "label": "Consultation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 2,
-            "label": "Research",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 3,
-            "label": "Implementation",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 4,
-            "label": "Optimization",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 5,
-            "label": "Reporting",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        },
-        {
-            "index": 6,
-            "label": "Improvement",
-            "content": "During the initial consultation, we will discuss your business goals and objectives, target audience, and current marketing efforts. This will allow us to understand your needs and tailor our services to best fit your requirements."
-        }
-    ]
+  "team": [
+    {
+      "title": "CEO and Founder",
+      "name": "Willy Betancur",
+      "description": "4+ years of experience in software projects. Expertise in SEO, UX/UI, and content strategy",
+      "profile": "/team/c1.png",
+      "link": "https://www.linkedin.com/in/willybetancur/"
+    }
+  ],
+  "process": [
+    {
+      "index": 1,
+      "label": "Consultation",
+      "content": "In this initial phase, we analyze your business needs and objectives. We define the scope of the project, the appropriate technologies, and the key requirements to ensure a solution aligned with your vision."
+    },
+    {
+      "index": 2,
+      "label": "Research",
+      "content": "We conduct an in-depth study of the market, competition and technological trends. This allows us to design an optimal development strategy and ensure that the solution meets the highest standards in terms of performance and scalability."
+    },
+    {
+      "index": 3,
+      "label": "Implementation",
+      "content": "We develop the software solution with the best practices in architecture, UX/UI, security and efficiency. Our team works in iterative cycles to ensure quality and adaptability throughout the process."
+    },
+    {
+      "index": 4,
+      "label": "Optimization",
+      "content": "We optimize software performance, security, and scalability. We implement strategies such as code refactoring, AI integration for predictive analysis, and improved response times."
+    },
+    {
+      "index": 5,
+      "label": "Reporting",
+      "content": "We provide detailed reports on project status, including progress, performance metrics, and test results. We ensure transparency and alignment with business objectives."
+    },
+    {
+      "index": 6,
+      "label": "Improvement",
+      "content": "We continuously iterate to perfect the solution. Through user monitoring and feedback, we make improvements to the experience, functionality, and security, ensuring the long-term evolution of the software."
+    }
+  ]
 }
